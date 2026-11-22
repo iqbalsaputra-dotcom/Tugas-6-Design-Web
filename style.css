@@ -285,7 +285,6 @@
         padding: 40px;
         text-align: center;
         cursor: pointer;
-        width: 390px;
         height: 390px;
         transition: all 0.3s ease;
     }
